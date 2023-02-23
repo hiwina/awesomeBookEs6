@@ -17,7 +17,7 @@ const author = document.querySelector('#author');
 
 form.addEventListener('submit', (event) => {
   event.preventDefault();
-  if (title.value !== '' || author.value === '') {
+  if (title.value === '' || author.value === '') {
     title.setAttribute('placeholder', 'title');
     author.setAttribute('placeholder', 'author');
   } else {
