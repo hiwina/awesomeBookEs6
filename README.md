@@ -3,8 +3,6 @@
 
 <div align="center">
 
-  <img src="/murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
 
   <h3><b>Awesome Book - ES6</b></h3>
 
@@ -25,7 +23,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖  Awesome-books-ES6 <a name="about-project"></a>
+# 📖  AwesomeBooks-ES6 <a name="about-project"></a>
 
 > This project is a book list app built using modules.
 
@@ -45,7 +43,7 @@
 
 Clone this repository to your desired folder:
 
-  git clone https://github.com/hiwina/Awesome-Book-ES6
+  git clone https://github.com/hiwina/awesomeBook-ES6
 
 
 <!-- AUTHORS -->
